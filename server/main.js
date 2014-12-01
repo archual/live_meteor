@@ -19,8 +19,4 @@ Meteor._debug(field);
 //var cell1 = new GeneralCell({x:2, y:3});
 //var cell2 = new GeneralCell({x:3, y:2});
 
-//field.add(cell);
-//field.add(cell1);
-//field.add(cell2);
-
 //setInterval(function(){console.clear();field.draw()}, 1000);
